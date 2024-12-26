@@ -1,17 +1,17 @@
 <div align="center">
    <h1> Car Price Prediction based on scraped dataset</h1>
-   <img src = "images/ELTE_Logo.png" alt="ELTE Logo">
 </div>
 
 This project focused on learning and involved creating a dataset through web automation and scraping techniques. The collected data was then used to develop a car price prediction model for Azerbaijan's car market.
 
 ## Technology
 - **Python**: Main programming language. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **PyTorch**: Machine Learning framework. <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" width="30" />
-- **Ultralytics**: AI platform that makes the usage of YOLOv8 and RT-DETR models easy. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDfTFONBFO8j91aS1lQPb9jfARtTFP1B82Q&s" alt="Ultralytics" width="50" />
-- **OpenCV**: Used for controlling video frames and processing them. <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="OpenCV" width="30" />
-- **RoboFlow**: It is a platform used to annotate images with boundary boxes. <img src = "https://d7umqicpi7263.cloudfront.net/img/product/8305253e-2066-4396-9e9a-f0f9b97e75b9.png" alt = "RoboFlow" width = "90"/>
-- **Kaggle**: This platform has been used to store data. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtXL5iMUpyo9rv-wJGjZiR62QPubHeI6-wA&s" alt="Kaggle Logo" width="70">
+- **Selenium**: Machine Learning framework. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" alt="Selenium" width="30" />
+- **Scikit-learn**: AI platform that makes the usage of YOLOv8 and RT-DETR models easy. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="30" />
+- **Numpy**: Used for controlling video frames and processing them. <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="30" />
+- **Pandas**: It is a platform used to annotate images with boundary boxes. <img src = "https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" alt = "Pandas" width = "30"/>
+- **Seaborn**: This platform has been used to store data. <img src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="Seaborn" width="30">
+- **Matplotlib**: This platform has been used to store data. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/768px-Matplotlib_icon.svg.png" alt="Matplotlib" width="30">
 
 ## Google Colab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArk3D34rWqNoPw4_n-ovyK0lz3yvknTVZd9yeCdZrsdDEViqoPMmjhFWD-iy4NO1UiyI&usqp=CAU" alt="Colab" width="40">
 - To train or fine-tune detection and segmentation models, usage of GPU is recommended.
