@@ -5,7 +5,7 @@
 This project focused on learning and involved creating a dataset through web automation and scraping techniques. The collected data was then used to develop a car price prediction model for Azerbaijan's car market.
 
 ## Technology
-- **Python**: Main programming language. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Python**: Main programming language. <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "Python" height="30" >
 - **Selenium**: Machine Learning framework. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/2560px-Selenium_logo.svg.png" alt="Selenium" width="30" />
 - **Scikit-learn**: AI platform that makes the usage of YOLOv8 and RT-DETR models easy. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="30" />
 - **Numpy**: Used for controlling video frames and processing them. <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="30" />
