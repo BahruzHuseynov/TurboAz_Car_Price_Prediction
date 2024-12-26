@@ -17,3 +17,5 @@ This project focused on learning and involved creating a dataset through web aut
 - **crhomedriver_win32**: A driver to be downloaded that allows to use Google Chrome with Selenium. For other types of browsers, corresponding driver must be downloaded.
 - **scraping.py**: Codes used to automate the browser and get data.
 - **Model_Prediction.ipynb**: Codes to pre-process and analyze data. Sequentially, the model has been built.
+
+## Scraped Website - TurboAz - https://turbo.az/
